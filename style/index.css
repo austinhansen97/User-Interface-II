@@ -90,7 +90,6 @@ video {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
-  border: solid 2px gray;
 }
 /* HTML5 display-role reset for older browsers */
 article,
@@ -262,6 +261,7 @@ footer {
   padding: 3px 20px;
   margin: 4% auto 5% auto;
   transition: 0.3s;
+  border: 1px black solid;
 }
 
 .contact-me:hover {
